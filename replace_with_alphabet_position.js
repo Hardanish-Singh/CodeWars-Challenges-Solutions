@@ -1,7 +1,6 @@
 /******************************************************************************************
  *                   CODEWARS REPLACE WITH ALPHABET POSITION CHALLENGE                    *
  *                                                                                        *
- * URL: https://www.codewars.com/kata/546f922b54af40e1e90001da                            *
  *                                                                                        *
  * Problem Statement                                                                      *
  * In this kata you are required to, given a string, replace every letter with its        *
