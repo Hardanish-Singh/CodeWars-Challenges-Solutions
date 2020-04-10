@@ -1,7 +1,6 @@
 /******************************************************************************************
  * CODEWARS FIND THE DIFFERENCE IN AGE BETWEEN OLDEST & YOUNGEST FAMILY MEMBERS CHALLENGE *
  *                                                                                        *
- * URL: https://www.codewars.com/kata/5720a1cb65a504fdff0003e2                            *
  *                                                                                        *
  * Problem Statement                                                                      *
  * At the annual family gathering, the family likes to find the oldest living family      *
