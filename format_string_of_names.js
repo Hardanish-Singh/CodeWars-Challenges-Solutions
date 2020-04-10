@@ -17,7 +17,7 @@
  * Output 3: Bart                                                                         *
  *                                                                                        *
  * Input 4: []                                                                            *
- * Output 3: ''                                                                         *
+ * Output 3: ''                                                                           *
  *****************************************************************************************/
 
 function list(names) {
@@ -26,14 +26,10 @@ function list(names) {
   let formattedString = new String("");
   for (let i = 0; i < names.length; i++) {
     if (i != names.length - 1) {
-      if (i == names.length - 2)
-        formattedString += names[i].name + String.fromCharCode(32);
-      else
-        formattedString +=
-          names[i].name + String.fromCharCode(44) + String.fromCharCode(32);
-    } else
-      formattedString +=
-        String.fromCharCode(38) + String.fromCharCode(32) + names[i].name;
+      if (i == names.length - 2) formattedString += names[i].name + String.fromCharCode(32);
+      else formattedString += names[i].name + String.fromCharCode(44) + String.fromCharCode(32);
+    } 
+    else formattedString += String.fromCharCode(38) + String.fromCharCode(32) + names[i].name;
   }
   return formattedString;
 }
