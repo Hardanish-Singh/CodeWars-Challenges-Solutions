@@ -1,5 +1,5 @@
 /******************************************************************************************
- * CODEWARS FIND THE DIFFERENCE IN AGE BETWEEN OLDEST & YOUNGEST FAMILY MEMBERS CHALLENGE *                 *
+ * CODEWARS FIND THE DIFFERENCE IN AGE BETWEEN OLDEST & YOUNGEST FAMILY MEMBERS CHALLENGE *
  *                                                                                        *
  * URL: https://www.codewars.com/kata/5720a1cb65a504fdff0003e2                            *
  *                                                                                        *
