@@ -1,7 +1,6 @@
 /******************************************************************************************
  *                        CODEWARS CREATE PHONE NUMBERS CHALLENGE                         *
  *                                                                                        *
- * URL: https://www.codewars.com/kata/525f50e3b73515a6db000b83                            *
  *                                                                                        *
  * Problem Statement                                                                      *
  * Write a function that accepts an array of 10 integers (between 0 and 9), that returns  *
